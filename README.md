@@ -24,8 +24,9 @@
  👋
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="500" height="250"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <hr/>
 
 ### :man_technologist: About Me :
@@ -38,4 +39,26 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px" title="C" alt="C" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px" height="40px" title="python" alt="python" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px" title="javascript" alt="javascript" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" title="HTML5" alt="HTML5" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" title="CSS" alt="CSS" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40px" height="40px" title="bootstrap" alt="bootstrap" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40px" height="40px" title="git" alt="git" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40px" height="40px" title="react" alt="react" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40px" height="40px" title="sass" alt="sass" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40px" height="40px" title="npm" alt="npm" />&nbsp
 </div>
+
+---
+
+### :fire: My Stats :
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adib)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adib-96&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adib-96&layout=compact)
+
+
