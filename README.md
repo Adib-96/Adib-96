@@ -30,7 +30,7 @@
 <hr/>
 
 ### :man_technologist: About Me :
-#### Full stack student 
+ Full stack student 
 - :telescope:I am a dedicated student at Holberton School Tunisia, immersing myself in the world of web development as I pursue my education. Simultaneously, I thrive as a freelancer, leveraging my skills and knowledge to take on exciting projects in the tech industry.
 - :seedling:I have a profound love for solving complex programming problems, and I find joy in the process of dissecting challenges and crafting elegant solutions.
 - :zap:I spend my free time avidly reading about the latest trends and innovations in IT.
