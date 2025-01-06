@@ -48,6 +48,11 @@ Full Stack Developer Student
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40px" height="40px" title="react" alt="react" />&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40px" height="40px" title="sass" alt="sass" />&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40px" height="40px" title="npm" alt="npm" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40px" height="40px" title="npm" alt="npm" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40px" height="40px" title="npm" alt="npm" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40px" height="40px" title="npm" alt="npm" />&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40px" height="40px" title="npm" alt="npm" />&nbsp
+ 
 </div>
 
 ---
