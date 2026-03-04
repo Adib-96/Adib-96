@@ -29,11 +29,14 @@
 
 <hr/>
 
-### :man_technologist: About Me :
-Full Stack Developer Student
-- :telescope:I am a dedicated student at Holberton School Tunisia, immersing myself in the world of web development as I pursue my education. Simultaneously, I thrive as a freelancer, leveraging my skills and knowledge to take on exciting projects in the tech industry.
-- :seedling:I have a profound love for solving complex programming problems, and I find joy in the process of dissecting challenges and crafting elegant solutions.
-- :zap:I spend my free time avidly reading about the latest trends and innovations in IT.
+
+## 👨‍💻 About Me
+- I’m a **Full-Stack Software Engineer** passionate about building **scalable, production-ready applications**. Currently studying at **Holberton School Tunisia**, I specialize in **React, Next.js, Node.js, Python, and PostgreSQL/MongoDB**.  
+
+- I love **solving complex programming challenges, designing clean architectures, and optimizing systems for performance and reliability**.  
+
+- As a freelancer, I have delivered **real-world projects** with **role-based authentication, RESTful APIs, and scalable database systems**. I thrive on creating **products that have measurable impact for users** and continuously improving my skills in **modern web technologies and software engineering best practices**.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -56,6 +59,16 @@ Full Stack Developer Student
 </div>
 
 ---
+
+## 🌱 What I’m Learning
+- Advanced **PostgreSQL optimization & Redis caching**  
+- **Dockerized deployments** for production SaaS projects  
+- Full **monitoring, logging & error tracking** for scalable apps
+
+
+## ⚡ Fun Fact
+I **love solving complex programming challenges** and building scalable products, all while enjoying a good cup of coffee ☕  
+
 
 ### :fire: My Stats :
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adib)](https://github.com/anuraghazra/github-readme-stats)
